@@ -51,8 +51,8 @@ Step 2: Decrypt the image
 
 python decrypt_image.py
 
-![Project Screenshot](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/debf5dad-6ea5-4ce5-b2a5-c7836635c375" />
-)
+## Project Screenshot
+![Project Screenshot](sample.jpg)
 
 ## Project Structure
 
@@ -75,3 +75,4 @@ This project is developed for educational purposes to understand cryptography an
 
 ## Author
 Pranoti Dangore
+
