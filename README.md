@@ -52,7 +52,7 @@ Step 2: Decrypt the image
 python decrypt_image.py
 
 ## Project Screenshot
-![Project Screenshot](sample.jpg)
+![Project Screenshot](snapshot.png)
 
 ## Project Structure
 
@@ -75,4 +75,5 @@ This project is developed for educational purposes to understand cryptography an
 
 ## Author
 Pranoti Dangore
+
 
